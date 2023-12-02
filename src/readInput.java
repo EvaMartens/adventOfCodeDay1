@@ -192,4 +192,3 @@ public class readInput {
     }
 
 }
-//C:\Users\epm04\IdeaProjects\adventOfCodeDay1
